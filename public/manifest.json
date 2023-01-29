@@ -15,6 +15,26 @@
       "src": "logo512.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "/images/comments_mk1.png",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/home_mk1.png",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/mi_mk1.png",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/mi_mk2.png",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/mi_mk3.png",
+      "type": "image/png"
     }
   ],
   "start_url": ".",
