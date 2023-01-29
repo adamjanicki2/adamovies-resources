@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/adamovies-resources/static/css/main.073c9b0a.css",
+    "main.js": "/adamovies-resources/static/js/main.7aa9781e.js",
+    "static/media/logo.svg": "/adamovies-resources/static/media/logo.8d9fe8a69addb3a1cfb8befe12d34d95.svg",
+    "index.html": "/adamovies-resources/index.html",
+    "main.073c9b0a.css.map": "/adamovies-resources/static/css/main.073c9b0a.css.map",
+    "main.7aa9781e.js.map": "/adamovies-resources/static/js/main.7aa9781e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7aa9781e.js"
+  ]
+}
