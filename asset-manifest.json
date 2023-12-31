@@ -1,14 +1,12 @@
 {
   "files": {
-    "main.css": "/adamovies-resources/static/css/main.df5ab0ab.css",
-    "main.js": "/adamovies-resources/static/js/main.866add06.js",
+    "main.css": "/adamovies-resources/static/css/main.8ca19f54.css",
+    "main.js": "/adamovies-resources/static/js/main.9e1d48a6.js",
     "static/media/logo.svg": "/adamovies-resources/static/media/logo.3600a3034dfc92bd474ba84dfed38595.svg",
-    "index.html": "/adamovies-resources/index.html",
-    "main.df5ab0ab.css.map": "/adamovies-resources/static/css/main.df5ab0ab.css.map",
-    "main.866add06.js.map": "/adamovies-resources/static/js/main.866add06.js.map"
+    "index.html": "/adamovies-resources/index.html"
   },
   "entrypoints": [
-    "static/css/main.df5ab0ab.css",
-    "static/js/main.866add06.js"
+    "static/css/main.8ca19f54.css",
+    "static/js/main.9e1d48a6.js"
   ]
 }
